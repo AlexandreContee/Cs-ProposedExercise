@@ -1,0 +1,15 @@
+C:\temp\projetos\ConsoleAppOrder\ConsoleAppOrder\bin\Debug\net6.0\ConsoleAppOrder.exe
+C:\temp\projetos\ConsoleAppOrder\ConsoleAppOrder\bin\Debug\net6.0\ConsoleAppOrder.deps.json
+C:\temp\projetos\ConsoleAppOrder\ConsoleAppOrder\bin\Debug\net6.0\ConsoleAppOrder.runtimeconfig.json
+C:\temp\projetos\ConsoleAppOrder\ConsoleAppOrder\bin\Debug\net6.0\ConsoleAppOrder.dll
+C:\temp\projetos\ConsoleAppOrder\ConsoleAppOrder\bin\Debug\net6.0\ConsoleAppOrder.pdb
+C:\temp\projetos\ConsoleAppOrder\ConsoleAppOrder\obj\Debug\net6.0\ConsoleAppOrder.csproj.AssemblyReference.cache
+C:\temp\projetos\ConsoleAppOrder\ConsoleAppOrder\obj\Debug\net6.0\ConsoleAppOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\ConsoleAppOrder\ConsoleAppOrder\obj\Debug\net6.0\ConsoleAppOrder.AssemblyInfoInputs.cache
+C:\temp\projetos\ConsoleAppOrder\ConsoleAppOrder\obj\Debug\net6.0\ConsoleAppOrder.AssemblyInfo.cs
+C:\temp\projetos\ConsoleAppOrder\ConsoleAppOrder\obj\Debug\net6.0\ConsoleAppOrder.csproj.CoreCompileInputs.cache
+C:\temp\projetos\ConsoleAppOrder\ConsoleAppOrder\obj\Debug\net6.0\ConsoleAppOrder.dll
+C:\temp\projetos\ConsoleAppOrder\ConsoleAppOrder\obj\Debug\net6.0\refint\ConsoleAppOrder.dll
+C:\temp\projetos\ConsoleAppOrder\ConsoleAppOrder\obj\Debug\net6.0\ConsoleAppOrder.pdb
+C:\temp\projetos\ConsoleAppOrder\ConsoleAppOrder\obj\Debug\net6.0\ConsoleAppOrder.genruntimeconfig.cache
+C:\temp\projetos\ConsoleAppOrder\ConsoleAppOrder\obj\Debug\net6.0\ref\ConsoleAppOrder.dll
